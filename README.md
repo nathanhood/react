@@ -1,4 +1,4 @@
-# client-template
+# React
 
 Serves as a template for client JavaScript applications.
 
